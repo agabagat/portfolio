@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Food Around Berkeley!
+Andrew Gabagat
+This website includes past food places I have been to in the past as well as future places to eat at.
 
 You can use the [editor on GitHub](https://github.com/agabagat/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

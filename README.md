@@ -1,16 +1,9 @@
-## Food Around Berkeley!
+# Food Around Berkeley!
 <hr>
 This website includes past food places I have been to in the past as well as future places to eat at.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Berkeley
+- ### Imm Thai
 
 **Bold** and _Italic_ and `Code` text
 

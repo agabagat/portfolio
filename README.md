@@ -2,11 +2,28 @@
 <hr>
 This website includes past food places I have been to in the past as well as future places to eat at.
 
+<details><summary>Dining Halls</summary>
+<p>
+- ### Cafe 3
+- ### Crossroads
+</p>
+</details>
+
 ## Berkeley
 - ### Imm Thai
+- ### Mezzo
+- ### Caffe Strada
+- ### Riceful
+- ### Kimchi Garden
+- ### Dumpling Kitchen
+- ### Plentea
+- ### Trader Joes
 
-**Bold** and _Italic_ and `Code` text
+## San Fransisco
+- ### Gott's Roadside
+- ### In-N-Out Fisherman's Wharf
+
+## Oakland
+- ### Seoul Gom Tang
 
 [Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

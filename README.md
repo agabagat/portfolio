@@ -2,12 +2,9 @@
 <hr>
 This website includes past food places I have been to in the past as well as future places to eat at.
 
-<details><summary>Dining Halls</summary>
-<p>
+# Dining Halls
 - ### Cafe 3
 - ### Crossroads
-</p>
-</details>
 
 ## Berkeley
 - ### Imm Thai

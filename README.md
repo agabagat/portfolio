@@ -23,4 +23,21 @@ This website includes past food places I have been to in the past as well as fut
 ## Oakland
 - ### Seoul Gom Tang
 
+<hr>
+
+# Places to Go
+- ### Yogurt Park
+- ### Oganye Kbbq in Oakland
+- ### Topdog
+- ### Sliver
+- ### Poke Parlor
+- ### 1951 - Matcha Coffee
+- ### Toss Noodle
+- ### Thai Noodles on Shattuck
+- ### Easterly
+- ### Gypsys's Italian
+- ### Almare Gelato Italiano
+- ### ALC Triple Rock on Shattuck
+- ### ALC Cornerstone on Shattuck
+<hr>
 [Link](url) and ![Image](src)
